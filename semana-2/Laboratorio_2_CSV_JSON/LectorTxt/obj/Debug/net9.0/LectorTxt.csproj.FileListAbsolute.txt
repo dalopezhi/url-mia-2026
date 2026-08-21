@@ -1,0 +1,15 @@
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\bin\Debug\net9.0\LectorTxt.exe
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\bin\Debug\net9.0\LectorTxt.deps.json
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\bin\Debug\net9.0\LectorTxt.runtimeconfig.json
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\bin\Debug\net9.0\LectorTxt.dll
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\bin\Debug\net9.0\LectorTxt.pdb
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\obj\Debug\net9.0\LectorTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\obj\Debug\net9.0\LectorTxt.AssemblyInfoInputs.cache
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\obj\Debug\net9.0\LectorTxt.AssemblyInfo.cs
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\obj\Debug\net9.0\LectorTxt.csproj.CoreCompileInputs.cache
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\obj\Debug\net9.0\LectorTxt.sourcelink.json
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\obj\Debug\net9.0\LectorTxt.dll
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\obj\Debug\net9.0\refint\LectorTxt.dll
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\obj\Debug\net9.0\LectorTxt.pdb
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\obj\Debug\net9.0\LectorTxt.genruntimeconfig.cache
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\LectorTxt\obj\Debug\net9.0\ref\LectorTxt.dll

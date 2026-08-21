@@ -25,3 +25,5 @@ C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\obj
 C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.pdb
 C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.genruntimeconfig.cache
 C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\ref\Laboratorio_2_CSV_JSON.dll
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\estudiantes.json
+C:\Users\50257\OneDrive\Desktop\url-mia-2026\semana-2\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.sourcelink.json
